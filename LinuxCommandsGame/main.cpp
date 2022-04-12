@@ -1,7 +1,6 @@
 /*******************************************************************************************************************************************
  * Author: Andrew J. Lefors                                                                                                                *
- * Programming Assignment 1: Learning Linux Commands Matching Game and C++ Review                                                          *
- * Designed For: Dr. Jia Yu, CPTS_223 Spring 2021                                                                                          *
+ * Project: Linux Command Matching                                                                                                         *
  * Created On: 2/01/2021                                                                                                                   *
  * Last Updated: 2/09/2021                                                                                                                 *
  * Description:                                                                                                                            *
