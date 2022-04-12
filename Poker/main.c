@@ -2,8 +2,7 @@
 
 Created By: Andrew Lefors
 Created On: 4/27/2020
-Assignment: PA-7 'Poker!'
-Created For: Dr. O'Fallon CPTS_121 Spring 2020
+Project: Poker
 File Version: 0.4.27.20
 
 Description: In poker, players form sets of five playing cards, called hands, according to the rules of the game.Each hand has a rank, which is compared against the ranks of other hands participating in the showdown to        
