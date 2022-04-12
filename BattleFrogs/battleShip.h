@@ -2,8 +2,7 @@
 
 Created By: Andrew Lefors
 Created On: 3/27/2020
-Assignment: PA-6 'Battleship!'
-Created For: Dr. O'Fallon CPTS_121 Spring 2020
+Project: BattleFrogs (BattleShip)
 File Version: 0.3.27.20
 
 Description: This is the Game of BattleFrogs. To win, you must sink all of the Computers ships. If the Computer sinks all of your ships, you lose. You begin by selecting to place your ships manually or at random.
