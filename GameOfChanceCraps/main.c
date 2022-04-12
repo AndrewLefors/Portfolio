@@ -19,11 +19,10 @@ Description: This is the game of Craps, where the user will be prompted for a ba
 int main (void)
 {
 	//Set Seed for rand
-	//srand((unsigned int)time(NULL));
+	srand((unsigned int)time(NULL));
 	//Start text-based game
-	//start_game();
-	//Start animated version. DID NOT FINISH
-	start_sdl();
+	start_game();
+
 
 	
 
