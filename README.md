@@ -2,25 +2,25 @@
 <h1>Example Portfolio of coding Projects
 <b>Each branch represents a programming language</b>, with example projects contained within. </h1>
 </lb>
-<h1>C - Programs:</h1>
-	<h2>Analyze FitBit Data:</h2>
-	<h2>Battle Frogs:</h2>
-	<h2>Frog Simulator:</h2> 
-	<h2>Game of Chance Craps:</h2>
-	<h2>Playlist Manager:</h2> 
-	<h2>Poker:</h2> 
-<h1>C++ - Programs:</h1>
-	<h2>Linux Commands Game:</h2>
-	<h2>Whumpus Hunt:</h2> 
-	<h2>Custom AVL Tree:</h2> 
-<h1>Python 3 - Programs:</h1>
-	<h2>Bioinformatics:</h2>
-		<h3>FASTQ Read Trimmer:</h3>
-		<h3>Single Nucleotide Polymorphism Parser:</h3>
-	<h2>Web Development:</h2>
-		<h3>Flask Database Backend:</h3>		
-<h1>Assembly – Programs:</h1>
-	<h2>Single Digit Adder:</h2>
-		<h3>Polling:</h3>
-		<h3>Interrupt Handler:</h3> 
+<h2>C - Programs:</h2>
+	<h3>Analyze FitBit Data:</h3>
+	<h3>Battle Frogs:</h3>
+	<h3>Frog Simulator:</h3> 
+	<h3>Game of Chance Craps:</h3>
+	<h3>Playlist Manager:</h3> 
+	<h3>Poker:</h3> 
+<h2>C++ - Programs:</h2>
+	<h3>Linux Commands Game:</h3>
+	<h3>Whumpus Hunt:</h3> 
+	<h3>Custom AVL Tree:</h3> 
+<h2>Python 3 - Programs:</h2>
+	<h3>Bioinformatics:</h3>
+		<h4>FASTQ Read Trimmer:</h4>
+		<h4>Single Nucleotide Polymorphism Parser:</h4>
+	<h3>Web Development:</h3>
+		<h4>Flask Database Backend:</h4>		
+<h2>Assembly – Programs:</h2>
+	<h3>Single Digit Adder:</h3>
+		<h4>Polling:</h4>
+		<h4>Interrupt Handler:</h4> 
 
