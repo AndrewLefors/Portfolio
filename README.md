@@ -1,7 +1,7 @@
 # Portfolio
 <h1>Example Portfolio of coding Projects
 <b>Each branch represents a programming language</b>, with example projects contained within. </h1>
-Contents
+----------------------------------------------------------------------------------------------------
 <h1>C - Programs:</h1>
 	<h2>Analyze FitBit Data:</h2>
 	<h2>Battle Frogs:</h2>
