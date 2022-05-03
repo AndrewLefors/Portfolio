@@ -3,23 +3,23 @@
 <b>Each branch represents a programming language</b>, with example projects contained within. </h1>
 </lb>
 <h2><a href="https://github.com/AndrewLefors/Portfolio/tree/C"> C - Programs:</a></h2>
-	<h3>Analyze FitBit Data:</h3>
-	<h3>Battle Frogs:</h3>
-	<h3>Frog Simulator:</h3> 
-	<h3>Game of Chance Craps:</h3>
-	<h3>Playlist Manager:</h3> 
-	<h3>Poker:</h3> 
-<h2>C++ - Programs:</h2>
-	<h3>Linux Commands Game:</h3>
-	<h3>Whumpus Hunt:</h3> 
-	<h3>Custom AVL Tree:</h3> 
-<h2>Python 3 - Programs:</h2>
-	<h3>Bioinformatics:</h3>
-		<h4>FASTQ Read Trimmer:</h4>
-		<h4>Single Nucleotide Polymorphism Parser:</h4>
-	<h3>Web Development:</h3>
-		<h4>Flask Database Backend:</h4>		
-<h2>Assembly – Programs:</h2>
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/tree/C/AnalyzeFitBitData">Analyze FitBit Data:</a></h3>
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/tree/C/BattleFrogs">Battle Frogs:</a></h3>
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/tree/C/FrogSimulator">Frog Simulator:</a></h3> 
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/tree/C/GameOfChanceCraps">Game of Chance Craps:</a></h3>
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/tree/C/PlayListManager">Playlist Manager:</a></h3> 
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/tree/C/Poker">Poker:</a></h3> 
+<h2><a href="https://github.com/AndrewLefors/Portfolio/tree/C++">C++ - Programs:</a></h2>
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/tree/C%2B%2B/LinuxCommandsGame">Linux Commands Game:</a></h3>
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/tree/C%2B%2B/WhumpusHunt">Whumpus Hunt:</a></h3> 
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/tree/C%2B%2B/customAVLTree">Custom AVL Tree:</a></h3> 
+<h2><a href="https://github.com/AndrewLefors/Portfolio/tree/Python3">Python 3 - Programs:</a></h2>
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/tree/Python3/Bioinformatics">Bioinformatics:</a></h3>
+		<h4><a href="https://github.com/AndrewLefors/Portfolio/blob/Python3/Bioinformatics/FASTQReadTrimmer.py">FASTQ Read Trimmer:</a></h4>
+		<h4><a href="https://github.com/AndrewLefors/Portfolio/blob/Python3/Bioinformatics/SNPparser.py">Single Nucleotide Polymorphism Parser:</a></h4>
+	<h3><a href="https://github.com/AndrewLefors/Portfolio/blob/Python3/WebDevelopment">Web Development:</a></h3>
+		<h4><a href="https://github.com/Sensiunk/School-Portal/tree/main/Project%20Milestones/School-Portal-Test/api">Flask Database Backend:</a></h4>		
+<h2><a href="https://github.com/AndrewLefors/Portfolio/tree/Assembly">Assembly – Programs:</a></h2>
 	<h3>Single Digit Adder:</h3>
 		<h4>Polling:</h4>
 		<h4>Interrupt Handler:</h4> 
