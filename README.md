@@ -2,7 +2,7 @@
 <h1>Example Portfolio of coding Projects
 <b>Each branch represents a programming language</b>, with example projects contained within. </h1>
 </lb>
-<h2>C - Programs:</h2>
+<h2><a href="https://github.com/AndrewLefors/Portfolio/tree/C"> C - Programs:</a></h2>
 	<h3>Analyze FitBit Data:</h3>
 	<h3>Battle Frogs:</h3>
 	<h3>Frog Simulator:</h3> 
